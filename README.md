@@ -18,7 +18,7 @@ This project implements real-time face mesh detection and visualization using Py
 2. **Run the Script**: Execute the Python script to start real-time face mesh detection:
 
     ```bash
-    python face_mesh_detection.py
+    python Face_Mesh.py
     ```
 
 3. **Controls**:
